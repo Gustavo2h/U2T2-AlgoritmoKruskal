@@ -63,5 +63,3 @@ Há ainda a possibilidade de **expandir o trabalho para outros pontos de interes
 
 ---
 
-## ✅ Fim
-
