@@ -50,7 +50,7 @@ Para isso, foi utilizada uma **MST criada com o Algoritmo de Kruskal**.
 Um **mapa final com todas as rotas e pontos de interesse foi plotado utilizando o Matplotlib**:
 
 <div align="center">
-  <img src="img/MapaKruskal.png" alt="Mapa da MST entre hotéis e aeroporto de Natal/RN" width="600"/>
+  <img src="img/MapaKruskal.jpg" alt="Mapa da MST entre hotéis e aeroporto de Natal/RN" width="600"/>
 </div>
 
 ---
