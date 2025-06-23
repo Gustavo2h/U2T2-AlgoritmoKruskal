@@ -9,7 +9,7 @@
 
 ## 📚 Contextualização
 
-Este repositório faz parte da **segunda atividade da segunda unidade** da disciplina de **Algoritmos e Estruturas de Dados 2**.  
+Este repositório faz parte da **terceira atividade da segunda unidade** da disciplina de **Algoritmos e Estruturas de Dados 2**.  
 
 A atividade desenvolvida utiliza **teoria dos grafos**, combinada com dados geográficos da biblioteca **OSMnx**, da linguagem **Python**, para analisar a **acessibilidade entre hotéis e o aeroporto de Natal/RN**.  
 
